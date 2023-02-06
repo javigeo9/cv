@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', serif
+}
+
+.top-container{
+    background-color: #e0ebe8;
+    z-index: -2;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px
+}
+.sec-title{
+    z-index: 1;
+}
+.bottom-cloud{
+    z-index: -1;
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
