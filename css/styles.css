@@ -4,6 +4,24 @@ body{
     font-family: 'Montserrat', serif
 }
 
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 30%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+h2{
+    color: #00b386;
+}
+h4{
+    color: #008060;
+}
+
 .top-container{
     background-color: #e0ebe8;
     z-index: -2;
@@ -24,3 +42,16 @@ body{
     left: 300px;
     bottom: 300px;
 }
+.programming{
+    margin-top: 3%;;
+}
+.languages{
+    margin-top: 3%;;
+}
+.interests{
+    margin-top: 3%;;
+}
+.bottom-container{
+    background-color: #e0ebe8;
+}
+
