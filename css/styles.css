@@ -28,6 +28,9 @@ h4{
     position: relative;
     padding-top: 100px;
 }
+.land{
+    vertical-align: middle;
+}
 .top-cloud{
     position: absolute;
     right: 300px;
